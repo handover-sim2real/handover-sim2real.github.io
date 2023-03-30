@@ -127,6 +127,12 @@ body {
   margin: 0;
 }
 
+.results-carousel video-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .results-carousel.right.carousel-control, .results-carousel.left.carousel-control {
     display: none;
 }
