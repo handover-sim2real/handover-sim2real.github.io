@@ -133,9 +133,6 @@ body {
   transform: translateY(-50%);
 }
 
-.right.carousel-control, .left.carousel-control {
-    display: none;
-}
 
 .interpolation-panel {
   background: #f5f5f5;
